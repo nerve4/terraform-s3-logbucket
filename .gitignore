@@ -31,5 +31,5 @@ override.tf.json
 # Pre-Commit files and Local test file(s)
 .pre-commit-config.yaml
 .tflint.hcl
-*.terraform.lock.hcl.*
+*.terraform.lock.hcl
 terraform.tfvars
